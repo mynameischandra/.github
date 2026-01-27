@@ -1,1 +1,5 @@
-
+{
+  "name": "default Workflow Name",
+  "description": This is starter workflow for all pipelines.",
+  "iconName": "chandra",
+}
