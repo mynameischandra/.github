@@ -1,4 +1,4 @@
-name: default workflow
+name: ChandraWorkFlow
 on:
   push:
     branches: [ "main" ]

@@ -1,5 +1,9 @@
 {
-  "name": "default workflow",
-  "description": This is starter workflow for all pipelines.",
+  "name": "ChandraWorkFlow",
+  "description": "A brief description of what this workflow does.",
   "iconName": "chandra",
+  "categories": [
+    "Category 1",
+    "Category 2"
+  ]
 }
