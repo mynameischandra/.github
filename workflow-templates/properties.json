@@ -2,9 +2,8 @@
 
 {
   "name": "ChandraWorkFlow",
-  "description": "A brief description of what this workflow does.",
+  "description": "Deploy a Node.js application to Azure Web App.",
   "categories": [
-    "Category 1",
-    "Category 2"
+    "Deployment"
   ]
 }
